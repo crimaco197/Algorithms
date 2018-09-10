@@ -1,6 +1,6 @@
 """
 
-@author: Juanito Banana
+@author: Cristian David Martinez Collazos
 
 """
 
