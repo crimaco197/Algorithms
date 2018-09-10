@@ -1,2 +1,1 @@
-# Algorithms
-Laboratorios de algoritmos
+# Algoritmos Laboratorio 2 (InsertionSort)
