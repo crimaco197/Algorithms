@@ -1,5 +1,12 @@
 #include <iostream>
 #include <cstdlib>
+
+/*
+ *
+ * @author CristianMartinez
+ *
+ */
+
 using namespace std;
 
  int fibo2(int n){  //empieza a mandar overflow despues de fibonacci de 46
