@@ -1,8 +1,21 @@
-"""
-
-@author: Juanito Banana
-
-"""
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "\"\"\"\n",
+    "\n",
+    "@author: Cristian David Martinez Collazos\n",
+    "\n",
+    "\"\"\"\n",
+    "\n",
+    "\n",
+    "import pylab as pl\n",
+    "import random"
+   ]
+  }
 import pylab as pl
 import itertools
 
