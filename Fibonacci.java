@@ -4,9 +4,10 @@ import java.util.Scanner;
 import java.math.*;
 import java.lang.*;
 
-/**
+/*
  *
  * @author CristianMartinez
+ *
  */
 public class Fibonacci {
 
