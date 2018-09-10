@@ -1,1 +1,1 @@
-# Algo-Lab2
+# Algoritmos Laboratorio 2 (Fibonacci)
