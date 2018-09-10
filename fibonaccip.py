@@ -2,8 +2,11 @@ import time
 import numpy as np
 import pylab as pl
 
+*/
 
+@autor CristianMartinez
 
+/*
 
 def fibo_iterado(n):
     if n== 0:
