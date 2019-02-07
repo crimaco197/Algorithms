@@ -95,7 +95,7 @@ public class Fibonacci {
                 
         
         System.out.println(fibo(c)+","+fibo2(a)+","+fibo3(b)+","+fibo4(d)+","+fibo5(e));
-        //System.out.println(fibo5(e)); //descomentar si quiere saber solo el fibonacci del BI
+        
     }
     
 }
